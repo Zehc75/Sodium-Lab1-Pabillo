@@ -10,9 +10,18 @@
       </head>
       <body>
            <div>
+          
+                
+
+               <h1>Call of Duty Mobile</h1>
+               <p>A war related game where all over the world play for fun and have fun tournaments and many of my favorite people play it as well.</p>
+
            <div>
-                <span><h3>5 Reason why this game is my favorite.</h3></span>
-           <ul> 
+
+           <span>
+               <h3>5 Reason why this game is my favorite.</h3>
+
+          <ul> 
                <li> Its teaches me about the past.</li>
                <li> Its shows the real world of the military.</li>
                <li> Its show how to use guns.</li>
@@ -20,12 +29,11 @@
                <li> Its a popular game.</li>
            </ul>
 
-               <p>Copyright &copy; Pabillo Zehc Sebastian 9-Sodium.</p>
-          
-                <div>
-               
-               <h1>Call of Duty Mobile</h1>
-               <p>A war related game where all over the world play for fun and have fun tournaments and many of my favorite people play it as well.</p>
-          </div>
+                     <p>Copyright &copy; Pabillo Zehc Sebastian 9-Sodium.</p>
+
+           </span>
+
+                 </div>  
+            </div>
       </body>
 </html>
